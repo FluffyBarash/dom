@@ -1,7 +1,12 @@
 import "./App.css";
 
 function App() {
-  return <div>Bobik</div>;
+  return (
+    <div>
+      <Header />
+      <p>Bobik</p>
+    </div>
+  );
 }
 
 export default App;

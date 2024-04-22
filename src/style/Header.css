@@ -1,0 +1,8 @@
+.header {
+  background-color: burlywood;
+  width: 100vw;
+  font-size: 30px;
+  padding: 20px;
+  justify-content: center;
+  display: flex;
+}
